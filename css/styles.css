@@ -1,0 +1,16 @@
+.rainbow {
+background-image: url("../img/rainbow.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#no-more {
+  margin-top: 20px;
+  font-size: 26px;
+  background-color: white;
+  float: right;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 10px;
+}
